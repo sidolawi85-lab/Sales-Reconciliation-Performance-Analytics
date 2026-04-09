@@ -1,8 +1,7 @@
 # 🚀 Sales Operations Reconciliation & Performance Analytics
-
-## 🖼️ Project Cover  
+  
 <!-- Replace with your project cover image -->
-![Project Cover](INSERT_PROJECT_COVER_IMAGE_LINK_HERE)
+![Project Cover]([INSERT_PROJECT_COVER_IMAGE_LINK_HERE](https://github.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/blob/main/Cover%20Image/Sales%20performance%20and%20analytics%20design.png))
 
 ---
 
