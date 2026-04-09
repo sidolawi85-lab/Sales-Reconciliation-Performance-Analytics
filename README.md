@@ -1,7 +1,7 @@
 # 🚀 Sales Operations Reconciliation & Performance Analytics
   
 <!-- Replace with your project cover image -->
-![Project Cover]([https://github.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/blob/main/Cover%20Image/Sales%20performance%20and%20analytics%20design.png])
+![Project Cover](https://raw.githubusercontent.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/main/Cover%20Image/Sales%20performance%20and%20analytics%20design.png)
 
 ---
 
