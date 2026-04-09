@@ -88,7 +88,7 @@ This disconnect may include:
 
 ## 🧱 Data Model (RDBM)  
 <!-- Replace with your data model image -->
-![Data Model](INSERT_RDBM_IMAGE_LINK_HERE)
+![RDBM Model](https://raw.githubusercontent.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/main/Cover%20Image/RDBM%20Model%20image.png)
 
 ### Data Model Logic  
 The model is built around serial-level traceability.
