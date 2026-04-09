@@ -256,7 +256,7 @@ In this project, the reconciliation analysis showed that this control was not fu
 
 ## 📊 Reconciliation Dashboard  
 <!-- Replace with your reconciliation dashboard -->
-![Reconciliation Dashboard](INSERT_RECON_DASHBOARD_IMAGE_LINK_HERE)
+![Sales Reconciliation Dashboard](https://raw.githubusercontent.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/main/Dashboard%20Screenshot/Sales%20Reconciliation%20Dashboard.png)
 
 ### Dashboard interpretation  
 The reconciliation dashboard summarizes the scale and shape of the reporting breakdown:
@@ -332,11 +332,7 @@ So while the performance dashboard is valuable, it also demonstrates why **contr
 ---
 
 ## 📊 Sales Performance Dashboard  
-<!-- Replace with your sales dashboard -->
-![Sales Dashboard](INSERT_PROJECT_COVER_IMAGE_LINK_HERE)
-
-<!-- Replace with your sales dashboard -->
-![Sales Dashboard](INSERT_SALES_DASHBOARD_IMAGE_LINK_HERE)
+![Sales Performance Dashboard](https://raw.githubusercontent.com/sidolawi85-lab/Sales-Reconciliation-Performance-Analytics/main/Dashboard%20Screenshot/Sales%20Performance%20Dashboard.png)
 
 ### Dashboard interpretation  
 The sales performance dashboard provides a view into:
